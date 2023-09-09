@@ -1,6 +1,5 @@
 # TextToAudio
 
-----Start Proje----
-pip install gTTS
-pip install pyttsx3
+#pip install gTTS
+#pip install pyttsx3
 
